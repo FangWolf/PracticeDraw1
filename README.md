@@ -1,3 +1,7 @@
+我的作业  
+![](images/job1.png)
+![](images/job2.png)</Br>
+直方图和饼图</Br></Br>
 ![](images/icon.png)
 
 HenCoder 绘制 1 练习项目
